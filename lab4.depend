@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733772509 source:c:\users\mohamed_fazaa\desktop\iti\data structure\lab4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1733772542 c:\users\mohamed_fazaa\desktop\iti\data structure\lab4\include\tree.h
+	"Node.h"
+
+1733771429 c:\users\mohamed_fazaa\desktop\iti\data structure\lab4\include\node.h
+
